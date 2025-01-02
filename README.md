@@ -1,4 +1,5 @@
 # CodeKaro
 Front-End Intensive
 <br/>
-Author  Akash Chaudhari
+Author  (Akash Chaudhari)
+Akash
