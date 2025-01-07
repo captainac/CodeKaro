@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.card{
+    width: 400px;
+    border: 1px solid lightgray;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.call{
+    width: 30px;   
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+h1{
+    margin-bottom: 10px;
+}
+p{
+    font-size: 16px;
+    color: #68686a;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+img{
+    width: 16px;
+}
+.new{
+    width: 100%;
+    padding: 10px;
+    background-color: #f3f3f5;
+    text-align: left;
+    border-radius: 10px;
+    
+}
+.right-arrow{
+    margin-left: 120px;
+}
+.existing{
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.openphone{
+    width: 100%;
+}
+.openphone p{
+    color: #ababad;
+    font-size: 14px;
+}
+.input{
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 10px;
+}
