@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.card{
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+.wh{
+    background-color: #fff;
+    width: 50px;
+    margin-bottom: 15px auto;
+}
+h1{
+    background-color: #fff;
+    margin-bottom: 10px;
+    color: #222224;
+}
+p{
+    background-color: #fff;
+    color: #676769;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.work{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f3f3f5;
+    margin-bottom: 20px;
+    text-align: left;
+}
+img{
+    background-color: #f3f3f5;
+    width: 18px;
+}
+.right-arrow{
+    margin-left: 220px;
+}
+.personal{
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.input{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
